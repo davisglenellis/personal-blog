@@ -25,7 +25,7 @@ email: dg@davisglenellis.com
 description: >- # this means to ignore newlines until "baseurl:"
   All opinions are my own.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://davisglenellis.github.io" # the base hostname & protocol for your site, e.g. http://davisglenellis.com
+url: "https://davisglenellis.github.io/personal-blog" # the base hostname & protocol for your site, e.g. http://davisglenellis.com
 twitter_username: davisglenellis
 github_username:  davisglenellis
 linkedin_username: davisglenellis
