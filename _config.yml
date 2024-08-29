@@ -18,22 +18,17 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+theme: minima
+
 title: "Davis Glen Ellis | Personal Blog"
 email: dg@davisglenellis.com
 description: >- # this means to ignore newlines until "baseurl:"
   All opinions are my own.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://davisglenellis.github.io/personal-blog/" # the base hostname & protocol for your site, e.g. http://davisglenellis.com
+url: "" # the base hostname & protocol for your site, e.g. http://davisglenellis.com
 twitter_username: davisglenellis
 github_username:  davisglenellis
 linkedin_username: davisglenellis
-
-# Build settings
-theme: minima
-remote_theme: pages-themes/midnight@v0.2.0
-plugins:
-  - jekyll-feed
-  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
